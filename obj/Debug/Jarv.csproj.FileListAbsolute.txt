@@ -1,0 +1,17 @@
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\obj\Debug\Jarv.Form1.resources
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\obj\Debug\Jarv.Properties.Resources.resources
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\obj\Debug\Jarv.csproj.GenerateResource.Cache
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\Jarv.exe.config
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\Jarv.exe
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\Jarv.pdb
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\mscorlib.dll
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\normidna.nlp
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\normnfc.nlp
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\normnfd.nlp
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\normnfkc.nlp
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\bin\Debug\normnfkd.nlp
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\obj\Debug\Jarv.exe
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\obj\Debug\Jarv.pdb
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\obj\Debug\Interop.WMPLib.dll
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\obj\Debug\Jarv.csproj.ResolveComReference.cache
+C:\Users\$Win!0\Documents\Visual Studio 2010\Projects\S.A.M\S.A.M\obj\Debug\Jarv.csprojResolveAssemblyReference.cache

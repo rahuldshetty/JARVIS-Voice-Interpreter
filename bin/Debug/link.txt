@@ -1,0 +1,4 @@
+open google
+open facebook
+open yahoo
+open notepad

@@ -1,0 +1,4 @@
+open notepad
+open calculator
+type
+insert
